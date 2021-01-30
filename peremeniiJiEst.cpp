@@ -6,7 +6,7 @@ void main()
 	setlocale(LC_ALL, "Ru");
 	int a = 1;
 	int b = 2;
-	cout << "Èçíà÷àëüíî:" << endl;
+	cout << "ÃˆÃ§Ã­Ã Ã·Ã Ã«Ã¼Ã­Ã®:" << endl;
 	cout << "A = " << a << endl;
 	cout << "B = " << b << endl;
 
@@ -14,7 +14,7 @@ void main()
 	b = a - b;
 	a = a - b;
 
-	cout << "Ïîñëå èçì:" << endl;
+	cout << "ÃÃ®Ã±Ã«Ã¥ Ã¨Ã§Ã¬:" << endl;
 	cout << "A = " << a << endl;
 	cout << "B = " << b << endl;
 
