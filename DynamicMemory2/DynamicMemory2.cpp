@@ -7,13 +7,9 @@ using std::endl;
 //Имя Массива указатель(копируется адрес массива
 
 #include "Arrays.h"
-#include "Arrsys.cpp"
 #include "Memory.h"
-#include "Memory.cpp"
 #include "Print.h"
-#include "Print.cpp"
 #include "Random.h"
-#include "Random.cpp"
 
 
 
