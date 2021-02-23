@@ -1,5 +1,7 @@
 #pragma once
 
+#include "Random.cpp"
+
 template<typename T>void Random(T& variable);
 
 template<typename T>void FillRand(T arr[], const int n, int maxRand = 100, int minRand = 0);

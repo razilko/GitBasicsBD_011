@@ -1,5 +1,5 @@
 #pragma once
-
+#include "Arrsys.cpp"
 
 template<typename T>void push_back_mutable(T*& arr, int& n, T value);// Добавить значение в конце 
 template<typename T>void push_front_mutable(T*& arr, int& n, T value);//Добавить значение в начало
